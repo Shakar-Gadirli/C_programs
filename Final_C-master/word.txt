@@ -1,0 +1,10 @@
+read line by line
+- write to the file
+- read from the file
+- create the file
+- append to the file
+- traverse inside the dirs
+- create the dir
+- remove the dir
+- traverse each file inside the dir (recursively)
+Append text files

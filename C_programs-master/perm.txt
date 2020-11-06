@@ -1,0 +1,3 @@
+chmod +x file  u g o hamisina executable verir
+chmod u=rwx,g=r,o=w  owner(u)-e rwx, groupa r, otherse w verir
+chmod 754 file  ---> chmod u=rwx,g=rx,o=r file ile eynidi
